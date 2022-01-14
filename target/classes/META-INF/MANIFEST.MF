@@ -1,11 +1,7 @@
 Manifest-Version: 1.0
-Built-By: DovahKiin
-Build-Jdk: 15.0.1
+Build-Jdk-Spec: 14
 Implementation-Title: com.gamefort-backend
 Implementation-Version: 0.0.1-SNAPSHOT
-Implementation-Vendor-Id: gamefort-backend
-Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
- -starter-parent/com.gamefort-backend
 Main-Class: com.gamefort.Main
 Created-By: Maven Integration for Eclipse
 
