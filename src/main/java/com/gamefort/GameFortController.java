@@ -49,7 +49,7 @@ public class GameFortController {
 	@RequestMapping("/")
     @ResponseBody
     String hello() {
-        return "Backend is running.";
+        return "GameBackend is running.";
     }	
 	
 	@PostMapping("/login")
