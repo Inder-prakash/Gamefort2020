@@ -21,3 +21,4 @@ public class AppConfig extends WebMvcConfigurerAdapter {
 	        };
 	    }
 }
+

@@ -137,6 +137,7 @@ public class GameFortController {
 				job.put("Size",m.getSize());
 				job.put("Status",m.getStatus());
 				job.put("Genere",m.getGenere());
+				job.put("Urls",m.getDownloadlink());
 				jarr.add(job);
 			}	 	
 			return jarr;
